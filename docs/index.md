@@ -12,5 +12,5 @@ Pablo Montijo
 
  This is a draft of a Solar System Simulation Project.
 
-![Solar System](solar-system.png)
+![Solar System](solar-system.PNG)
 #### Figure 1. Shows a screenshot of the Solar System Project 
