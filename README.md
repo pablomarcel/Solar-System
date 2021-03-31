@@ -5,8 +5,10 @@ Pablo Montijo
  Game Design and Development with Unity 2020 Specialization
 
  Solar System
+ 
+[Github Pages](https://pablomarcel.github.io/Solar-System) "Solar System Github Website"
 
-[itch.io link](https://pablomarcel.itch.io/solar-system) "Solar System Draft"
+[itch.io link](https://pablomarcel.itch.io/solar-system) "Solar System Itch.io"
 
 # Introduction
 
